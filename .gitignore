@@ -1,0 +1,11 @@
+bin/
+obj/
+dist/
+.vs/
+.idea/
+*.user
+TestResults/
+
+# API dumps are generated per game project and can contain that project's private C++ API names.
+*.hpp
+Docs/angelscript/
