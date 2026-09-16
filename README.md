@@ -130,3 +130,8 @@ dotnet test
 
 The guide is downloaded from angelscript.hazelight.se at runtime and cached locally; this repository
 does not contain any of its content.
+
+## License
+
+[MIT](LICENSE). The license covers this server's code only. The engine API dump is generated from your
+own Unreal Engine build and stays under Epic's license; the guide belongs to its authors.
